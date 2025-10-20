@@ -1,1 +1,4 @@
 *.exe
+
+# Editor and build artifacts
+.vscode
